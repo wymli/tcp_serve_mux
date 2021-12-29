@@ -1,5 +1,6 @@
 # tcp_serve_mux
-a serve mux used in tcp net.conn using go generics with go1.18beta1
+a serve mux used in tcp net.conn using go generics with go1.18beta1  
+just an example demo for learning go generics or type parameters in go1.18
 
 
 
